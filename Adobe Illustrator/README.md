@@ -2,5 +2,5 @@ Below are the illustrations I have created in Adobe Illustrator in chronological
 
 Collection of Shapes:
 
-![Image Alt text]( "Optional title"))
+![](Adobe Illustrator/Adobe Illustrator - Collection of Shapes.png "Collection of Shapes"))
 
