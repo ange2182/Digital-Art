@@ -1,3 +1,4 @@
-Below are the illustrations I have created in Adobe Illutrator in the order by which they were created.
+Below are the illustrations I have created in Adobe Illustrator in chronological order.
 
 Collection of Shapes:
+
