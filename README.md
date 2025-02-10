@@ -1,4 +1,4 @@
-Images of the creations I've made in Adobe Illustrator, Photoshop and Animate as a beginner.
+Images of what I've made in Adobe Illustrator, Photoshop and Animate as a beginner.
 
 Personal Notes:
 
