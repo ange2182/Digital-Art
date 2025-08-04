@@ -3,7 +3,7 @@ This folder contains my works in Adobe Animate.
 Bouncing Ball Animation:
 https://youtu.be/AB_y3azNxNY
 
-Internal Change Animation:
+Internal Change Animation (Warning for flashing lights):
 https://youtu.be/C4TeYcpu46U
 
 Internal Change Animation Context:
